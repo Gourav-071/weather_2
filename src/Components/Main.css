@@ -1,0 +1,66 @@
+.container {
+  width: 70%;
+  height: 70vh;
+  background-color: beige;
+  margin: auto;
+  margin-top: 60px;
+  background-image: url('./omg1.jpg') ;
+  background-repeat: no-repeat;
+  color:white;
+  border-radius: 50px;
+  text-shadow: 2px 2px 2px black;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+
+}
+.inpu {
+ height: 30px;
+ width: 20vw;
+ border-radius: 5px;
+
+}
+
+
+
+.info{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  font-family:serif;
+  font-size: 1em;
+  letter-spacing: 1px;
+  
+
+}
+.info1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  font-family:serif;
+  font-size: 1rem;
+
+}
+.info2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  font-family:serif;
+  font-size: 1rem;
+
+}
+.icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  font-family:serif;
+  font-size: 1rem;
+}
